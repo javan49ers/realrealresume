@@ -1,0 +1,51 @@
+.whole{
+    background-color: green;
+    color: orange;
+}
+
+
+.topper{
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.resumeting{
+    font-style: italic;
+    font-size: 12px;
+    color: blue;
+}
+
+.zelda{
+    color: red;
+    font-size: 40px;
+}
+
+.equipaje{
+    color: darkblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.section-box {
+    background: #ffffffc7;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+
+.left-link-box {
+    width: fit-content;
+    padding: 10px 15px;
+    background: #ffffff;
+    border: 2px solid #004080;
+    margin: 20px;
+}
+
+
+centter{
+    text-align: center;
+}
